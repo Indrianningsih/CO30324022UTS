@@ -48,7 +48,7 @@ do
     /* code */
     break;  
    case '4':
-    Info();
+    info();
     /* code */
     break;  
   case '5':
