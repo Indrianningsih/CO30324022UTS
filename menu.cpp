@@ -8,13 +8,13 @@ int jumlah = 0;
 
 void info(){
   system("cls");
-  cout<<"uts";
+  cout<<"UTS";
   getch();
 }
 void dMenu(){
 system("cls");
 cout<<"Aplikasi Tampilan Menu"<<"\n";       
-cout<<"1. Memasukkan nilai Array"<<"\n";            
+cout<<"1. Memasukkan nilai Array"<<"\n";
 cout<<"2. Menampilkan Array"<<"\n";            
 cout<<"3. Mennyortir Array"<<"\n";           
 cout<<"4. Info"<<"\n";            
